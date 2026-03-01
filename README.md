@@ -65,14 +65,7 @@ Final Technical Report:
 
 ---
 
-## Deliverables
 
-- Final Technical Report  
-- Demonstration Video (YouTube link)  
-- Gameplay Screenshots  
-- Full HDL Source Code  
-
----
 
 ## Skills Demonstrated
 
