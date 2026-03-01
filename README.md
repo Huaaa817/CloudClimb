@@ -60,7 +60,8 @@ A detailed technical report is included, covering:
 - Timing analysis and design considerations  
 - Engineering challenges and solutions  
 
-Final Report: `Report.pdf`
+Final Technical Report:  
+[View Full Report (PDF)](docs/Group27_report.pdf)
 
 ---
 
